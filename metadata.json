@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia: Idle City Builder",
+  "description": "An isometric idle strategy city builder where you balance residential growth, business worker capacity, ecological happiness, and inter-city bridge alliances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
